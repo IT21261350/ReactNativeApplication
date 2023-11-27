@@ -1,1 +1,1 @@
-# ReactNativeApplication-CodeScale
+# ReactNativeApplication
